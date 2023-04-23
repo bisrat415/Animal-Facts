@@ -10,6 +10,11 @@ Welcome to the Animal Fun Facts project! This program allows users to click on a
 - Random fact generator: Each click on an animal triggers a random fact from a list of potential options.
 
 ## Screenshots
+Inital Look when visiting the site
+<img src="images/initial.png />
+
+Clicking at an animal generates a random funfact
+<img src="iamges/click.png />
 
 ## Author
 
